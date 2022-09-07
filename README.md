@@ -1,27 +1,14 @@
-# CodesandboxTemplateAngular
+# Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+This is a [Angular](https://angular.io/) project bootstrapped using the Angular CLI.
 
-## Development server
+[Configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+[![Edit in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/mkoczka/codesandbox-template-angular/main)
 
-## Code scaffolding
+## Resources
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- [CodeSandbox Projects — Docs](https://docs.codesandbox.io)
+- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+- [SvelteKit — GitHub](https://github.com/sveltejs/kit)
+- [SvelteKit — Docs](https://kit.svelte.dev/docs/introduction)
