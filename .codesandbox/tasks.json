@@ -1,12 +1,12 @@
 {
   // These tasks will run in order when initializing your CodeSandbox project.
-  "setupTasks": [],
+  "setupTasks": ["yarn install"],
 
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
   "tasks": {
-    "ng serve": {
-      "name": "ng serve",
-      "command": "ng serve",
+    "Run Dev Server": {
+      "name": "yarn start",
+      "command": "yarn start",
       "runAtStart": true
     }
   }
